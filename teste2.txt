@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 .
+=======
+>>>>>>> parent of 333c30b (mudanças realizadas)
